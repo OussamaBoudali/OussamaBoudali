@@ -20,7 +20,7 @@ Stay tuned! I'm working on some exciting big data projects that involve [Predict
 
 ## How to Reach Me
 
-Feel free to connect with me on [LinkedIn](#https://www.linkedin.com/in/oussama-boudali-a611b11b7/) or [Twitter](#https://twitter.com/BoudaliOussama4). I'm always open to discussions, collaborations, and new ideas.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/oussama-boudali-a611b11b7/) or [Twitter](https://twitter.com/BoudaliOussama4). I'm always open to discussions, collaborations, and new ideas.
 
 ## Let's Collaborate!
 
