@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm Oussama, a 4th-year engineering student majoring in Big Data. I'm passionate about exploring the realms of computer science and data analytics.
+Hello there! I'm Oussama, a 5th-year engineering student majoring in Big Data. I'm passionate about exploring the realms of computer science and data analytics.
 
 ## Projects
 
