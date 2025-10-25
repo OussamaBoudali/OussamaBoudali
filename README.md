@@ -129,13 +129,7 @@ I'm actively seeking **Big Data Engineer** and **Data Engineer** opportunities w
 
 ---
 
-## 📈 GitHub Stats
 
-![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OussamaBoudali&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OussamaBoudali&layout=compact&theme=radical)
-
----
 
 ⭐ **Fun Fact:** I reduced manual reporting time by 80% through pipeline automation - imagine what we could build together!
 
